@@ -5,6 +5,8 @@ public class InsultPrint {
 		PhraseMatic firstTalk = new PhraseMatic();
 		System.out.print(firstTalk.makePhrase());
 
+// fgfg
+
 	}
 
 }
