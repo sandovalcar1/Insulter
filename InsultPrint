@@ -1,0 +1,10 @@
+public class InsultPrint {
+	public static void main(String[] args) {
+		
+	  	
+		PhraseMatic firstTalk = new PhraseMatic();
+		System.out.print(firstTalk.makePhrase());
+
+	}
+
+}
